@@ -3,7 +3,6 @@
 **Nama         :** Satria Bagas Sejati  
 **NIM          :** 552012610009  
 **Program Studi:** Teknik Informatika
-
 **Tools        :** Cisco Packet Tracer
 
 Repositori kumpulan simulasi jaringan selama Semester 1. Dibuat untuk mendokumentasikan pembelajaran topologi LAN, Hybrid, VLAN, dan Routing.
