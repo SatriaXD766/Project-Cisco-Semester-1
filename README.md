@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Satria%20Bagas%20Sejati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Si%20Anak%20Networking%20%7C%20552012610009%20%7C%20Cisco&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=230&section=header&text=Satria%20Bagas%20Sejati&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Si%20Anak%20Networking%20%7C%20552012610009%20%7C%20Slay+The+Network&descAlignY=56&descSize=18" />
 
 <div align="center">
 
-[[Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=400&color=00F5FF&background=0A0A23FF&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Satria+Bagas+Sejati+Si+Anak+Networking+%F0%9F%8C%90;Welcome+To+My+Cisco+Lab+Fr+%F0%9F%94%A5;Hybrid+Topology+%7C+VLAN+%7C+Routing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=300&color=00FFAB&background=0A0A23FF&center=true&vCenter=true&multiline=true&width=900&height=130&lines=Satria+Bagas+Sejati+Si+Anak+Networking+%F0%9F%8C%90%F0%9F%92%80;no+cap%2C+topologi+gw+anti+RTO+fr+fr+%F0%9F%94%A5;PING+8.8.8.8+Request+timed+out%3F+NOT+IN+MY+LAB+%F0%9F%98%8E;Switch+%7C+Router+%7C+AP+%7C+Cloud+%3D+Connected+Slayy)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,3 +32,9 @@ Repositori kumpulan simulasi jaringan selama Semester 1. Dibuat untuk mendokumen
 
 ---
 *Semester 1 - Teknik Informatika 2026*
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=170&section=footer&text=Satria%20Si%20Anak%20Networking&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=60&desc=%5BPING+SUCCESS%5D+100%25+Packet+Received+%7C+0%25+Loss+%7C+Sheesh!&descAlignY=85&descSize=17" />
+
+</div>
