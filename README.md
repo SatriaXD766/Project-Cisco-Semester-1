@@ -1,10 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=230&section=header&text=Satria%20Bagas%20Sejati&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Si%20Anak%20Networking%20%7C%20552012610009%20%7C%20Slay+The+Network&descAlignY=56&descSize=18" />
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=300&color=00FFAB&background=0A0A23FF&center=true&vCenter=true&multiline=true&width=900&height=130&lines=Satria+Bagas+Sejati+Si+Anak+Networking+%F0%9F%8C%90%F0%9F%92%80;no+cap%2C+topologi+gw+anti+RTO+fr+fr+%F0%9F%94%A5;PING+8.8.8.8+Request+timed+out%3F+NOT+IN+MY+LAB+%F0%9F%98%8E;Switch+%7C+Router+%7C+AP+%7C+Cloud+%3D+Connected+Slayy)](https://git.io/typing-svg)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=300&section=header&text=Satria%20Bagas%20Sejati&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Si%20Anak%20Networking%20%7C%20552012610009&descAlignY=58&descSize=19" />
 
 **Nama         :** Satria Bagas Sejati  
 **NIM          :** 552012610009  
