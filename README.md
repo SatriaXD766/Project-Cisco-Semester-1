@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=220&section=header&text=Satria%20Bagas%20Sejati&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=33&desc=Si%20Anak%20Networking%20%7C%20552012610009%20%7C%20Cisco+Packet+Tracer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Satria%20Bagas%20Sejati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Si%20Anak%20Networking%20%7C%20552012610009%20%7C%20Cisco&descAlignY=55&descSize=20" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=00FF9D&background=0A0A23FF&center=true&vCenter=true&multiline=true&width=850&height=120&lines=Satria+Bagas+Sejati+Si+Anak+Networking+%F0%9F%8C%90;root%40sbs-net%3A~%24+ping+8.8.8.8+-+Connected!;Switch+%3E+Router+%3E+Cloud+%3E+Internet+%F0%9F%9A%80;Building+Hybrid+Topology+3+Segmen+SBS-Net)](https://git.io/typing-svg)
+[[Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=400&color=00F5FF&background=0A0A23FF&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Satria+Bagas+Sejati+Si+Anak+Networking+%F0%9F%8C%90;Welcome+To+My+Cisco+Lab+Fr+%F0%9F%94%A5;Hybrid+Topology+%7C+VLAN+%7C+Routing)](https://git.io/typing-svg)
 
 </div>
 
