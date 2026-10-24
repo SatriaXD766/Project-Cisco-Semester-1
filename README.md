@@ -8,6 +8,7 @@
 ![Networking](https://img.shields.io/badge/Si_Anak_Networking-00FFAB?style=for-the-badge&logo=netgear&logoColor=black)
 ![Status](https://img.shields.io/badge/PING-SUCCESS-00FF00?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![GenZ](https://img.shields.io/badge/GEN_Z-FF00FF?style=for-the-badge&logo=verizon&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
