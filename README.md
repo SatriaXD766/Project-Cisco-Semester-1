@@ -9,7 +9,7 @@
 ![Networking](https://img.shields.io/badge/Si_Anak_Networking-00FFAB?style=for-the-badge&logo=netgear&logoColor=black)
 ![Status](https://img.shields.io/badge/PING-SUCCESS-00FF00?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![GenZ](https://img.shields.io/badge/GEN_Z-FF00FF?style=for-the-badge&logo=verizon&logoColor=white)
-
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ---
