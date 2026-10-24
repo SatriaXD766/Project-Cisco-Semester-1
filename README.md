@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=400&color=00FFAB&background=0A0A23FF&center=true&vCenter=true&multiline=true&width=900&height=130&lines=Satria+Bagas+Sejati+Si+Anak+Networking+%F0%9F%8C%90%F0%9F%92%80;no+cap%2C+topologi+gw+anti+RTO+fr+fr+%F0%9F%94%A5;PING+8.8.8.8+Request+timed+out%3F+NOT+IN+MY+LAB+%F0%9F%98%8E;Switch+%7C+Router+%7C+AP+%7C+Cloud+%3D+Connected+Slayy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=400&color=00FFAB&background=0A0A23FF&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Satria+Bagas+Sejati+Si+Anak+Networking+%F0%9F%8C%90%F0%9F%92%80;no+cap%2C+topologi+gw+anti+RTO+fr+fr+%F0%9F%94%A5;PING+8.8.8.8+Request+timed+out%3F+NOT+IN+MY+LAB+%F0%9F%98%8E;Switch+%7C+Router+%7C+AP+%7C+Cloud+%3D+Connected+Slayy)](https://git.io/typing-svg)
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Networking](https://img.shields.io/badge/Si_Anak_Networking-00FFAB?style=for-the-badge&logo=netgear&logoColor=black)
