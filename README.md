@@ -13,6 +13,14 @@
 </div>
 
 ---
+*Kontribusi ku dimakan ular, tapi koneksi Cisco ku anti RTO 🐍🌐*
+### 👋 Tentang Aku
+
+Halo! Aku **Satria Bagas Sejati (552012610009)** - Mahasiswa Teknik Informatika.
+
+Aku lagi fokus belajar membangun **clean code selangkah demi selangkah** di dunia C++ (Struktur Data & Algoritma) dan juga mendalami dunia Networking lewat Cisco Packet Tracer.
+
+> Karena repository ku ada C++ nya dan ada Cisco nya juga, jadi aku belajar di dua dunia sekaligus. Logic & Connection! 🔥
 
 **Nama         :** Satria Bagas Sejati  
 **NIM          :** 552012610009  
