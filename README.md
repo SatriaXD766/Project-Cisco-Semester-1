@@ -48,7 +48,7 @@ Repositori kumpulan simulasi jaringan selama Semester 1. Dibuat untuk mendokumen
 - PC, Laptop, Server, Smartphone, Tablet
 
 ### 🖼️ Preview Project 02 - Enterprise Office (All Green)
-![Preview Enterprise Office All Green](preview-enterprise.png)
+![Preview Enterprise Office All Green](PREVIEW-ENTERPRISE.PNG)
 
 **Fitur Project 02 (Pengembangan dari Project 01):**
 - **Topologi:** ISP Cloud -> R1-Core Router (2911) -> Switch Utama (2960) -> 3 Access Switch (IT/HRD/Finance) + AP + Server
