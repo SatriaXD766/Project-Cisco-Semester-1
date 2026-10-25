@@ -37,6 +37,10 @@ Repositori kumpulan simulasi jaringan selama Semester 1. Dibuat untuk mendokumen
 | 02 | Enterprise Office Network Infrastructure | Enterprise Full (VLAN, Trunking, DHCP, WiFi) | `enterprise-office-network-Infrastructure.pkt` | ✅ Connected |
 | 03 | (Project Selanjutnya) | - | - | ⏳ Coming Soon |
 
+### 📄 Dokumentasi Lengkap
+> Untuk detail IP Table, Konfigurasi Router, DHCP, VLAN & Command Lengkap, cek disini:
+> **👉 [Buka CONFIGURATION.md](./CONFIGURATION.md)**
+
 ### 🖼️ Preview Project 01 - Hybrid 3 Segmen SBS-Net (All Connected)
 ![Preview Topologi Hybrid SBS-Net](preview-topologi.jpg)
 
