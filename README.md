@@ -37,7 +37,7 @@ Repositori kumpulan simulasi jaringan selama Semester 1. Dibuat untuk mendokumen
 | 02 | Enterprise Office Network Infrastructure | Enterprise Full (VLAN, Trunking, DHCP, WiFi) | `enterprise-office-network.pkt` | ✅ Connected |
 | 03 | (Project Selanjutnya) | - | - | ⏳ Coming Soon |
 
-### 🖼️ Preview Project 01 - Hybrid 3 Segmen SBS-Net
+### 🖼️ Preview Project 01 - Hybrid 3 Segmen SBS-Net (All Connected)
 ![Preview Topologi Hybrid SBS-Net](preview-topologi.jpg)
 
 **Fitur Project 01:**
@@ -47,7 +47,7 @@ Repositori kumpulan simulasi jaringan selama Semester 1. Dibuat untuk mendokumen
 - 2x Access Point
 - PC, Laptop, Server, Smartphone, Tablet
 
-### 🖼️ Preview Project 02 - Enterprise Office (All Green)
+### 🖼️ Preview Project 02 - Enterprise Office (All Connected)
 ![Preview Enterprise Office All Green](PREVIEW-ENTERPRISE.PNG)
 
 **Fitur Project 02 (Pengembangan dari Project 01):**
