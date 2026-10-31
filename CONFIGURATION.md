@@ -49,7 +49,6 @@ write memory
 
 ## PROJECT 2: Enterprise Office Network Infrastructure
 ***File: enterprise-office-network-infrastructure.pkt***
-
 **Skenario: PT. Satria.TBK**
 
 ### Topologi
