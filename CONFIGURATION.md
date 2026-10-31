@@ -48,8 +48,9 @@ write memory
 ```
 
 ## PROJECT 2: Enterprise Office Network Infrastructure
-**File: enterprise-office-network-infrastructure.pkt**
-*Skenario: PT. Satria.TBK*
+***File: enterprise-office-network-infrastructure.pkt***
+
+**Skenario: PT. Satria.TBK**
 
 ### Topologi
 ISP (Cloud) -> R1-Core Router (2911) -> Switch Utama (2960-24TT) -> 
