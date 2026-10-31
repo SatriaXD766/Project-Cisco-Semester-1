@@ -9,25 +9,25 @@ Internet -> Router0 -> 3 Switch -> 9 PC
 
 # IP TABLE
 Segmen 1 (VLAN Kantor 1):
-Network: 192.168.1.0/24
+`Network: 192.168.1.0/24
 Gateway: 192.168.1.1
 PC1: 192.168.1.10
 PC2: 192.168.1.11
-PC3: 192.168.1.12
+PC3: 192.168.1.12`
 
 Segmen 2 (VLAN Kantor 2):
-Network: 192.168.2.0/24
+`Network: 192.168.2.0/24
 Gateway: 192.168.2.1
 PC4: 192.168.2.10
 PC5: 192.168.2.11
-PC6: 192.168.2.12
-
+PC6: 192.168.2.12`
+```
 Segmen 3 (VLAN Kantor 3):
-Network: 192.168.3.0/24
+`Network: 192.168.3.0/24
 Gateway: 192.168.3.1
 PC7: 192.168.3.10
 PC8: 192.168.3.11
-PC9: 192.168.3.12
+PC9: 192.168.3.12 `
 
 # KONFIGURASI ROUTER
 enable
