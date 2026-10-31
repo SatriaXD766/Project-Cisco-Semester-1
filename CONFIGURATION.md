@@ -1,7 +1,7 @@
 ## Cisco Portfolio - Semester 1 
 Dokumentasi lengkap 2 Project
 
-## PROJECT 1: Topologi Jaringan Hybrid 3 Segmen
+# PROJECT 1: Topologi Jaringan Hybrid 3 Segmen
 **File: Topologi_Jaringan_Hybrid_3_Segmen.pkt**
 
 # Topologi:
@@ -47,7 +47,7 @@ end
 write memory
 ```
 
-## PROJECT 2: Enterprise Office Network Infrastructure
+# PROJECT 2: Enterprise Office Network Infrastructure
 **File: enterprise-office-network-infrastructure.pkt**
 *Skenario: PT. Satria.TBK*
 
@@ -60,6 +60,7 @@ ISP (Cloud) -> R1-Core Router (2911) -> Switch Utama (2960-24TT) ->
 + AccessPoint Kantor PT. Satria TBK
 
 # 1. R1-Core Router (2911)
+```CISCO
 enable
 configure terminal
 hostname R1-Core-Router
@@ -86,8 +87,10 @@ ip dhcp pool OFFICE-POOL
 
 end
 write memory
+```
 
 # 2. Switch Utama (2960-24TT)
+```CISCO
 enable
 configure terminal
 hostname Switch-Utama
@@ -102,14 +105,17 @@ interface range FastEthernet0/1-24
  switchport mode access
 end
 write memory
+```
 
 # 3. Switch Access (Ulangi untuk Finance, HRD, IT)
+```CISCO
 enable
 conf t
 hostname Switch-Access-Finance
 interface range Fa0/1-10
  switchport mode access
 end
+```
 
 # 4. Server-PT - Server 1
 IP Configuration:
