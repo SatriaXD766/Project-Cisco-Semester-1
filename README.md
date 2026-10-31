@@ -35,7 +35,6 @@ Repositori kumpulan simulasi jaringan selama Semester 1. Dibuat untuk mendokumen
 | :--- | :--- | :--- | :--- | :--- |
 | 01 | Topologi Jaringan Hybrid 3 Segmen SBS-Net | Hybrid (Wired + Wireless) + ISP | `Topologi_Jaringan_Hybrid_3_Segmen_SBS-Net.pkt` | ✅ Connected |
 | 02 | Enterprise Office Network Infrastructure | Enterprise Full (VLAN, Trunking, DHCP, WiFi) | `enterprise-office-network-Infrastructure.pkt` | ✅ Connected |
-| 03 | (Project Selanjutnya) | - | - | ⏳ Coming Soon |
 
 ### 📄 Dokumentasi Lengkap
 > Untuk detail IP Table, Konfigurasi Router, DHCP, VLAN & Command Lengkap, cek disini:
