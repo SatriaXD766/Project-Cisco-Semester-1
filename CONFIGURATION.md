@@ -1,8 +1,8 @@
-# 🛜 Cisco Portfolio - Semester 1 
+## Cisco Portfolio - Semester 1 
 Dokumentasi lengkap 2 Project
 
-PROJECT 1: Topologi Jaringan Hybrid 3 Segmen
-File: Topologi_Jaringan_Hybrid_3_Segmen.pkt
+## PROJECT 1: Topologi Jaringan Hybrid 3 Segmen
+**File: Topologi_Jaringan_Hybrid_3_Segmen.pkt**
 
 # Topologi:
 Internet -> Router0 -> 3 Switch -> 9 PC
@@ -30,6 +30,7 @@ PC8: 192.168.3.11
 PC9: 192.168.3.12 `
 
 # KONFIGURASI ROUTER
+```CISCO
 enable
 configure terminal
 hostname Router-Hybrid
@@ -44,10 +45,11 @@ interface GigabitEthernet0/2
  no shutdown
 end
 write memory
+```
 
-PROJECT 2: Enterprise Office Network Infrastructure
-File: enterprise-office-network-infrastructure.pkt
-Skenario: PT. Satria TBK
+## PROJECT 2: Enterprise Office Network Infrastructure
+**File: enterprise-office-network-infrastructure.pkt**
+*Skenario: PT. Satria.TBK*
 
 # Topologi
 ISP (Cloud) -> R1-Core Router (2911) -> Switch Utama (2960-24TT) -> 
